@@ -1,8 +1,8 @@
 ## To see the sprites, there are 2 possibilities
 # 1. Clone the repository
-‘‘‘bash
+```bash
 git clone https://github.com/Caotox/Roguelite-Sprites-Aseprite/new/main?filename=README.md
-’’’
+```
 # 2.1 - If you don't have Aseprite 
 Open the .png files, no pixel Art modification possibilities then.
 
